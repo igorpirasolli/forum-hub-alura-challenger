@@ -1,14 +1,5 @@
 # Desafio Fórum Hub - API REST com Java e Spring Boot
 
-<div align="center">
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Java Version](https://img.shields.io/badge/Java-8%2B-blue)](https://www.java.com/)
-![GitHub repo size](https://img.shields.io/github/repo-size/rodrigoborge/coonversor-moedas-java)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/rodrigoborge/coonversor-moedas-java)
-
-</div><br>
-
 ## Badge
 
 Este é um badge conquistado por ter desenvolvido este projeto com a Alura no programa ONE - "Oracle Next Education" em parceria com a Oracle:
